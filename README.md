@@ -10,6 +10,11 @@
 - ``CSS3``
 - ``JavaScript``
 - ``Google Fonts``
+<br>
+
+<p align="center">
+ <img src="images/Countdown.png" width="550" alt="Image project">
+</p>
 
 ## 📁 Project access
 You can access the project files by clicking [here](https://github.com/Coastony/dev-Sergio-Bueno)
