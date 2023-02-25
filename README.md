@@ -6,10 +6,8 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5``
-- ``CSS3``
-- ``JavaScript``
-- ``Google Fonts``
+- ``HTML5`` ``CSS3`` ``JavaScript`` ``Google Fonts``
+
 <br>
 
 <p align="center">
@@ -18,9 +16,3 @@
 
 ## 📁 Project access
 You can access the project files by clicking [here](https://github.com/Coastony/countdown)
-
-## 💡 Credits
-developedbyed | Simple Javascript Countdown Tutorial
-
-[Video Link](https://www.youtube.com/watch?v=Rib69h2DOxg&t=870s)
-
